@@ -44,10 +44,12 @@ Here are some ideas to get you started:
 
 ## 🛠 Technical Stack
 *   C++ STL,LibCurl/Java Core 
+*   Good Knowledge about Payment Security
 *   medium skils in MySQL,Sqlite
 *   learning Spring Framework
 *   GitHub
 *   Windows,Linux,Macos adminisration skills.
+*   some Skills in PenTest
 
 
 *   
