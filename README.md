@@ -43,12 +43,17 @@ Here are some ideas to get you started:
 *   Fast learner.
 
 ## 🛠 Technical Stack
-*   C++ STL,LibCurl/Java Core
-*   medium skils in MySQL,Sql lite
+*   C++ STL,LibCurl/Java Core 
+*   medium skils in MySQL,Sqlite
 *   learning Spring Framework
 *   GitHub
 *   Windows,Linux,Macos adminisration skills.
 
 
-
+*   
+      https://www.coursera.org/account/accomplishments/certificate/U84LMY8TW7PT
+      https://www.udemy.com/certificate/UC-IZ6YQ6WK/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email
+      https://javarush.ru/users/2657145
+      https://www.sololearn.com/profile/21566205
+      
 
