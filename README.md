@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 # Hi, I'm Serhii 👋
-🔭I’m currently working on AntiPhishing Project as Security Consultant(part time). 
-🌱 Learning Java,Spring Framework.
-👯 I’m looking to collaborate on some good projects,where i can develop my skills in Java programing,or in payment security field.
+-  🔭I’m currently working on AntiPhishing Project as Security Consultant(part time). 
+-  🌱 Learning Java,Spring Framework.
+-  👯  I’m looking to collaborate on some good projects,where i can develop my skills in Java programing,or in payment security field.
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true"><img
            height=150
