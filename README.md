@@ -45,9 +45,9 @@ Here are some ideas to get you started:
 ## 🛠 Technical Stack
 *   C++ STL,LibCurl/Java Core 
 *   Good Knowledge about Payment Security
-*   medium skils in MySQL,Sqlite
+*   user skils in MySQL,Sqlite
 *   GitHub
-*   Windows,Linux,Macos adminisration skills.
+*   Windows,Linux,Macos advanced user.
 *   some Skills in PenTest
 
 
