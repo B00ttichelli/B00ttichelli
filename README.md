@@ -44,6 +44,7 @@ Here are some ideas to get you started:
 
 ## 🛠 Technical Stack
 *   C++ STL,LibCurl/Java Core 
+*   HTML/CSS/JavaScript basic level
 *   Good Knowledge in Payment Systems' Security
 *   basic skils in MySQL,Sqlite
 *   GitHub
