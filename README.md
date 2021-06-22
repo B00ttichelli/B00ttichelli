@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 # Hi, I'm Serhii 👋
--  🔭I’m currently working on AntiPhishing Project as Security Consultant(part time). 
+-  🔭I’m currently working on  an antiphishing project as a Security Consultant(part-time). 
 -  🌱 Learning Java,Spring Framework.
--  👯  I’m looking to collaborate on some good projects,where i can develop my skills in Java programing,or in payment security field.
+-  👯   I'm open to collaborate on some good projects,where i can develop my skills in Java programing,or in fintech security field.
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=B00ttichelli&show_icons=true&count_private=true"><img
            height=150
@@ -38,23 +38,23 @@ Here are some ideas to get you started:
 
 
 ### Key points
-*   ex owner of Thesecure.biz jabber server. (more than 100k registred users). Bigest deepweb jabber server.
-*   Darkweb and Deep Web insider,i am know how fraudsters work.
+*   ex owner of Thesecure.biz jabber server. (more than 100k registred users). The bigest deepweb jabber server.
+*   Darkweb and Deep Web insider,I know how fraudsters work.
 *   Fast learner.
 
 ## 🛠 Technical Stack
 *   C++ STL,LibCurl/Java Core 
-*   Good Knowledge about Payment Security
-*   user skils in MySQL,Sqlite
+*   Good Knowledge in Payment Systems' Security
+*   basic skils in MySQL,Sqlite
 *   GitHub
 *   Windows,Linux,Macos advanced user.
-*   some Skills in PenTest
+*   some skills in PenTest
 
 
-*   
-      https://www.coursera.org/account/accomplishments/certificate/U84LMY8TW7PT
-      https://www.udemy.com/certificate/UC-IZ6YQ6WK/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email
-      https://javarush.ru/users/2657145
-      https://www.sololearn.com/profile/21566205
+*  My achievements<br>
+      <a href = "https://www.coursera.org/account/accomplishments/certificate/U84LMY8TW7PT">C++ RedBelt</a><br>
+      <a href = "https://www.udemy.com/certificate/UC-IZ6YQ6WK/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email">Udemy C++ DeepDive Cource</a><br>
+      <a href = "https://javarush.ru/users/2657145">My Javarush profile</a><br>
+      <a href = "https://www.sololearn.com/profile/21566205"> My SoloLearn Profile</a><br>
       
 
