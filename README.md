@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Hi, I'm Serhii 👋
 -  🔭I’m currently working on  an antiphishing project as a Security Consultant(part-time). 
--  🌱 Learning Java,Spring Framework.
+-  🌱 Learning Java,Spring Framework, in LOGOS IT-Academy
 -  👯   I'm open to collaborate on some good projects,where i can develop my skills in Java programing,or in fintech security field.
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=B00ttichelli&show_icons=true&count_private=true"><img
