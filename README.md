@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 *  My achievements<br>
       <a href = "https://www.coursera.org/account/accomplishments/certificate/U84LMY8TW7PT">C++ RedBelt</a><br>
-      <a href = "https://www.udemy.com/certificate/UC-IZ6YQ6WK/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email">Udemy C++ DeepDive Cource</a><br>
+      <a href = "https://www.udemy.com/certificate/UC-IZ6YQ6WK/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email">Udemy C++ DeepDive </a><br>
       <a href = "https://javarush.ru/users/2657145">My Javarush profile</a><br>
       <a href = "https://www.sololearn.com/profile/21566205"> My SoloLearn Profile</a><br>
       
