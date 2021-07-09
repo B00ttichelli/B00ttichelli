@@ -38,14 +38,14 @@ Here are some ideas to get you started:
 
 
 ### Key points
-*   ex owner of Thesecure.biz jabber server. (more than 100k registred users). The bigest deepweb jabber server.
-*   Darkweb and Deep Web insider,I know how fraudsters work.
-*   Fast learner.
+*   Fast Learner
+*   Intermediate English and Advanced Italian languages
+*   Open-minded
 
 ## 🛠 Technical Stack
 *   C++ STL,LibCurl/Java Core 
 *   HTML/CSS/JavaScript basic level
-*   Good Knowledge in Payment Systems' Security
+*   Payment Systems' Security
 *   basic skils in MySQL,Sqlite
 *   GitHub
 *   Windows,Linux,Macos advanced user.
