@@ -43,13 +43,14 @@ Here are some ideas to get you started:
 *   Open-minded
 
 ## 🛠 Technical Stack
-*   C++ STL,LibCurl/Java Core 
-*   HTML/CSS/JavaScript basic level
+*   Java/C++ STL 
+*   HTML/CSS/JavaScript/REST
+*   Spring Boot,Spring MVC, Spring Security
+*   MySQL,Hibernate
+*   Git
+*   Basic Linux Administration Skills
 *   Payment Systems' Security
-*   basic skils in MySQL,Sqlite
-*   GitHub
-*   Windows,Linux,Macos advanced user.
-*   some skills in PenTest
+
 
 
 *  My achievements<br>
