@@ -21,16 +21,13 @@ Here are some ideas to get you started:
 -  👯   I'm open to collaborate on some good projects,where i can develop my skills in Java programing.
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=B00ttichelli&show_icons=true&count_private=true"><img
-           height=70
+           height=100
            src="https://github-readme-stats.vercel.app/api?username=B00ttichelli&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/B00ttichelli/github-readme-stats"><img height=70
+   <a href="https://github.com/B00ttichelli/github-readme-stats"><img height=100
                                                                   src="https://github-readme-stats.vercel.app/api/top-langs/?username=B00ttichelli&layout=compact"/></a>
 </p>
 
-<p align='center'>
-   <a href="http://linkedin.com/in/vovnenko-sergey-308143188">
-       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-   </a>
+
    
 
 
@@ -60,4 +57,8 @@ Here are some ideas to get you started:
      <p align = 'center'>
    <img src = "https://www.codewars.com/users/B00ttichelli/badges/micro"/>
       </p>
+      <p align='center'>
+   <a href="http://linkedin.com/in/vovnenko-sergey-308143188">
+       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+   </a>
 
