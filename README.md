@@ -31,15 +31,12 @@ Here are some ideas to get you started:
    
 
 
-### Key points
-*   Fast Learner
-*   Intermediate English and Advanced Italian languages
-*   Open-minded
 
-## 🛠 Technical Stack
-*   Java/C++ STL 
-*   Spring Boot,Spring MVC, Spring Security
-*   MySQL,Hibernate
+## 🛠 Technical Stack                                       ### Key points
+
+*   Java/C++ STL                                      *   Fast Learner
+*   Spring Boot,Spring MVC, Spring Security           *   Intermediate English and Advanced Italian languages
+*   MySQL,Hibernate                                   *   Open-minded
 *   HTML/CSS/JavaScript/REST
 *   Git
 *   Basic Linux Administration Skills
