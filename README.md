@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -  👯   I'm open to collaborate on some good projects,where i can develop my skills in Java programing.
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=B00ttichelli&show_icons=true&count_private=true"><img
-           height=50
+           height=70
            src="https://github-readme-stats.vercel.app/api?username=B00ttichelli&show_icons=true&count_private=true"/></a>
    <a href="https://github.com/B00ttichelli/github-readme-stats"><img height=70
                                                                   src="https://github-readme-stats.vercel.app/api/top-langs/?username=B00ttichelli&layout=compact"/></a>
