@@ -23,7 +23,7 @@ Here are some ideas to get you started:
    <a href="https://github-readme-stats.vercel.app/api?username=B00ttichelli&show_icons=true&count_private=true"><img
            height=50
            src="https://github-readme-stats.vercel.app/api?username=B00ttichelli&show_icons=true&count_private=true"/></a>
-   <a href="https://github.com/B00ttichelli/github-readme-stats"><img height=50
+   <a href="https://github.com/B00ttichelli/github-readme-stats"><img height=70
                                                                   src="https://github-readme-stats.vercel.app/api/top-langs/?username=B00ttichelli&layout=compact"/></a>
 </p>
 
@@ -32,9 +32,6 @@ Here are some ideas to get you started:
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
    
-<p align='center'>
-   📫 How to reach me: <a href='mailto:Sud0idol@icloud.com'>Sud0idol@icloud.com</a>
-</p>
 
 
 ### Key points
