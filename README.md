@@ -29,14 +29,14 @@ Here are some ideas to get you started:
 
 
 ## 🛠 Technical Stack                                    
-*   Java/C++ STL                                      
+<p align = 'left'>*   Java/C++ STL                                      
 *   Spring Boot,Spring MVC, Spring Security          
 *   MySQL,Hibernate                                 
 *   HTML/CSS/JavaScript/REST
 *   Git
 *   Basic Linux Administration Skills
 *   Payment Systems' Security
-
+</p>
 
 <p align = 'right'>
 *  My achievements<br>
@@ -46,9 +46,10 @@ Here are some ideas to get you started:
       <a href = "https://www.sololearn.com/profile/21566205"> My SoloLearn Profile</a><br>
       <a href = "https://www.udemy.com/certificate/UC-11985531-c6e7-4e8d-90e7-283de79a2749/?utm_source=sendgrid.com&utm_medium=email&utm_campaign=email">Spring for Beginners</a></p>
       
-     <p align = 'center'><a href="https://www.codewars.com/users/B00ttichelli">
+     <p align = 'center'> <a href="https://www.codewars.com/users/B00ttichelli">
    <img src = "https://www.codewars.com/users/B00ttichelli/badges/micro"/>
    </a>
+   
       </p>
       <p align='center'>
    <a href="http://linkedin.com/in/vovnenko-sergey-308143188">
