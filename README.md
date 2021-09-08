@@ -29,14 +29,14 @@ Here are some ideas to get you started:
 
 
 ## 🛠 Technical Stack                                    
-<div align = 'left'>*   Java/C++ STL                                      
+*   Java/C++ STL                                      
 *   Spring Boot,Spring MVC, Spring Security          
 *   MySQL,Hibernate                                 
 *   HTML/CSS/JavaScript/REST
 *   Git
 *   Basic Linux Administration Skills
 *   Payment Systems' Security
-</div>
+
 
 <div align = 'right'>
 *  My achievements<br>
