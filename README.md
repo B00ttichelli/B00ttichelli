@@ -13,12 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-
-# Hi, I'm Serhii 👋
--  🔭I’m currently working on  an antiphishing project as a Security Consultant(part-time). 
--  🌱 Learning Java,Spring Framework, in LOGOS IT-Academy
--  👯   I'm open to collaborate on some good projects,where i can develop my skills in Java programing.
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=B00ttichelli&show_icons=true&count_private=true"><img
            height=100
@@ -26,6 +20,13 @@ Here are some ideas to get you started:
    <a href="https://github.com/B00ttichelli/github-readme-stats"><img height=100
                                                                   src="https://github-readme-stats.vercel.app/api/top-langs/?username=B00ttichelli&layout=compact"/></a>
 </p>
+
+-->
+
+# Hi, I'm Serhii 👋
+-  🔭II'm open to collaborate on some good projects,where i can develop my skills in Java programing. 
+-  🌱 Learning Java,Spring Framework, in LOGOS IT-Academy
+
 
 
 ## 🛠 Technical Stack                                    
@@ -47,7 +48,7 @@ Here are some ideas to get you started:
       <a href = "https://www.udemy.com/certificate/UC-11985531-c6e7-4e8d-90e7-283de79a2749/?utm_source=sendgrid.com&utm_medium=email&utm_campaign=email">Spring for Beginners</a></div>
       
   
-   <a href="http://linkedin.com/in/vovnenko-sergey-308143188">
+ <p align = 'center'>  <a href="http://linkedin.com/in/vovnenko-sergey-308143188">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-   </a>
+   </a></p>
 
