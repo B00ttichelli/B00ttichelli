@@ -39,16 +39,14 @@ Here are some ideas to get you started:
 
 
 <div align = 'right'>
-*  My achievements<br>
+ My achievements<br>
       <a href = "https://www.coursera.org/account/accomplishments/certificate/U84LMY8TW7PT">C++ RedBelt</a><br>
       <a href = "https://www.udemy.com/certificate/UC-IZ6YQ6WK/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email">Udemy C++ DeepDive </a><br>
       <a href = "https://javarush.ru/users/2657145">My Javarush profile</a><br>
       <a href = "https://www.sololearn.com/profile/21566205"> My SoloLearn Profile</a><br>
       <a href = "https://www.udemy.com/certificate/UC-11985531-c6e7-4e8d-90e7-283de79a2749/?utm_source=sendgrid.com&utm_medium=email&utm_campaign=email">Spring for Beginners</a></div>
       
-   <a href="https://www.codewars.com/users/B00ttichelli">
-   <img src = "https://www.codewars.com/users/B00ttichelli/badges/micro"/>
-   </a> 
+  
    <a href="http://linkedin.com/in/vovnenko-sergey-308143188">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
