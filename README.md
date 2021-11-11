@@ -25,8 +25,7 @@ Here are some ideas to get you started:
 
 # Hi, I'm Serhii 👋
 -  🔭II'm open to collaborate on some good projects,where i can develop my skills in Java programing. 
--  🌱 Learning Java,Spring Framework, in LOGOS IT-Academy
-
+-  🌱 Learning Java,Spring Framework and DevSecOps
 
 
 ## 🛠 Technical Stack                                    
